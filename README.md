@@ -17,7 +17,8 @@ I am currently expanding my expertise in Data Analytics, Machine Learning, Micro
 - 🏢 Business process optimisation and ERP transformation
 
 ---
-### Table of Contents
+## Table of Contents
+
 - [Professional Experience](#professional-experience)
 - [Technical Skills](#technical-skills)
 - [Featured Projects](#featured-projects)
@@ -118,7 +119,8 @@ Analysis of sales performance using Python and visualisation techniques.
 
 ---
 
-### Education
+## Education
+
 - Mission Ready HQ: (Expected) AI-Powered Data Analyst Diploma (Feb 2026 - Oct 26)
 - Victoria University of Wellington: Bachelor of Laws, Bachelor of Commerce (International Business) (2012 -2016)
 
