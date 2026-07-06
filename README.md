@@ -26,7 +26,7 @@ I am currently expanding my expertise in Data Analytics, Machine Learning, Micro
 - [Education](#education)
 - [Contact](#lets-connect)
 
-## 💼 Professional Experience
+## Professional Experience
 
 My background includes:
 
@@ -45,7 +45,7 @@ I enjoy translating complex business requirements into practical technical solut
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -79,7 +79,7 @@ I enjoy translating complex business requirements into practical technical solut
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🏠 House Price Prediction
 
@@ -109,7 +109,7 @@ Analysis of sales performance using Python and visualisation techniques.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning
 - Microsoft Fabric Engineering
@@ -126,7 +126,7 @@ Analysis of sales performance using Python and visualisation techniques.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - LinkedIn: https://linkedin.com/in/anya-sinclair-morrison-b8686a51
 - Email: anyamaysinclair@gmail.com
