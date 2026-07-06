@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Anya. I have been a Business Analyst for the last ten years, largely working in the ERP space and have now pivoted a little and am on track to complete a Diploma in Data Analytics through Mission Ready in October this year. 
+
+This is a repository to showcase my skills, share projects I have done and track my progress in Data Analytics.
+
 <!--
 **anyasinclair/anyasinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
