@@ -81,9 +81,30 @@ I enjoy translating complex business requirements into practical technical solut
 
 ## Featured Projects
 
+### 💰 Loan Data Analytics (IN PROGRESS)
+
+The goal is to predict whether the loan will be approved or defaulted using the features provided to better support future decision making by the bank. 
+
+**Code** 
+
+['Loan data analysis'](https://github.com/anyasinclair/My_Projects/blob/main/Mission%206.ipynb)
+
+**Skills**
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Random Forest
+- Linear Regression
+- Model Evaluation
+
+
 ### 🏠 House Price Prediction
 
-Machine learning project comparing multiple regression models to predict property prices.
+Machine learning project comparing multiple regression models to predict property prices. (IN PROGRESS)
+
+**Code** 
+
+['Analysing house price data for predictive analytics'](https://github.com/anyasinclair/My_Projects/blob/main/Mission%204%20-%20Predicting%20House%20Price%20with%20Multiple%20Linear%20Regression.ipynb)
 
 **Skills**
 
@@ -99,6 +120,10 @@ Machine learning project comparing multiple regression models to predict propert
 ### 💰 Sales Data Analytics
 
 Analysis of sales performance using Python and visualisation techniques.
+
+**Code** 
+
+['Sales Data Analysis'](https://github.com/anyasinclair/My_Projects/blob/main/Mission%203%20-%20Exploratory%20Data%20Analysis%20(EDA)%20with%20the%20Sales%20Dataset%20using%20Pandas%20and%20d%20Matplotlib_Seaborn.ipynb)
 
 **Skills**
 
