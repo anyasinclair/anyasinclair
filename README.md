@@ -1,10 +1,13 @@
 # Hi, I'm Anya 👋
 
-### Business Analyst | Data Analytics 
+### Data Analytics 
 
-I am a Business Analyst with over 10 years of experience delivering business transformation, ERP implementations, financial systems, and process improvement initiatives. My passion is using data to solve business problems, combining analytical thinking with practical business experience to deliver measurable outcomes.
+I’m currently completing a Diploma in Data Analytics through Mission Ready (expected October 2026), expanding my capability in Python, SQL, Machine Learning, Microsoft Fabric and data‑driven decision‑making and hoping to pivot into a more data analytics focused role. 
 
-I am currently expanding my expertise in Data Analytics, Machine Learning, Microsoft Fabric, Azure, and Python while building a portfolio of real-world analytics projects.
+Over the past decade, I’ve worked as a Business analyst supporting complex programmes across manufacturing, finance, supply chain, and enterprise operations — helping organisations clarify requirements, optimise processes, and deliver meaningful change. I thrive in environments where collaboration, continuous improvement, and thoughtful problem‑solving are valued. I’m passionate about combining business analysis with data literacy to help organisations improve accuracy, efficiency, and insight. Whether working with technical teams, operational leaders, or executive stakeholders, I bring clarity, structure, and a steady focus on delivering outcomes that matter. 
+
+Alongside my study and work, I’m a Director at Pelle Care Products Limited, where I  provide input on strategy, finance, compliance, and product development. This hands‑on commercial experience has strengthened my ability to connect business needs with practical, scalable solutions.
+If you’re working on transformation, process optimisation, or data‑enabled improvement — I’d love to connect.
 
 ---
 
