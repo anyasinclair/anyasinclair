@@ -17,7 +17,6 @@ If you’re working on transformation, process optimisation, or data‑enabled i
 - ☁️ Microsoft Fabric and Azure Data Analytics
 - 📈 Predictive analytics and business intelligence
 - 🤖 Data visualisation and dashboard development
-- 🏢 Business process optimisation and ERP transformation
 
 ---
 ## Table of Contents
