@@ -101,11 +101,11 @@ The goal is to predict whether the loan will be approved or defaulted using the 
 
 ### 🏠 House Price Prediction
 
-Machine learning project comparing multiple regression models to predict property prices. (IN PROGRESS)
+Machine learning project comparing multiple regression models to predict property prices.
 
 **Code** 
 
-['Analysing house price data for predictive analytics'](https://github.com/anyasinclair/My_Projects/blob/main/Mission%204%20-%20Predicting%20House%20Price%20with%20Multiple%20Linear%20Regression.ipynb)
+['Analysing house price data for predictive analytics'](https://github.com/anyasinclair/My_Projects/blob/main/Predicting%20House%20Price%20with%20Multiple%20Linear%20Regression.ipynb)
 
 **Skills**
 
@@ -124,7 +124,7 @@ Analysis of sales performance using Python and visualisation techniques.
 
 **Code** 
 
-['Sales Data Analysis'](https://github.com/anyasinclair/My_Projects/blob/main/Mission%203%20-%20Exploratory%20Data%20Analysis%20(EDA)%20with%20the%20Sales%20Dataset%20using%20Pandas%20and%20d%20Matplotlib_Seaborn.ipynb)
+['Sales Data Analysis'](https://github.com/anyasinclair/My_Projects/blob/main/Sales_analysis_using_pandas%20and%20d%20Matplotlib_Seaborn.ipynb)
 
 **Skills**
 
@@ -132,9 +132,26 @@ Analysis of sales performance using Python and visualisation techniques.
 - Visualisation
 - Business Insights
 - Trend Analysis
+- Pandas
+- Matplotlib_seaborn
 
 ---
+### 💰 Game Data Analytics
 
+Analysis of game performance using SQL and visualisation techniques.
+
+**Code** 
+
+['Game Data Analysis'](https://github.com/anyasinclair/My_Projects/blob/main/game_data_analysis.sql)
+
+**Skills**
+
+- Data Cleaning
+- Business Insights
+- Trend Analysis
+- SQL Windows Functions
+
+---
 ## Currently Learning
 
 - Advanced Machine Learning
