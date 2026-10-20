@@ -2,9 +2,9 @@
 
 ### Data Analytics 
 
-I’m currently completing a Diploma in Data Analytics through Mission Ready (expected October 2026), expanding my capability in Python, SQL, Machine Learning, Microsoft Fabric and data‑driven decision‑making and hoping to pivot into a more data analytics focused role. 
+I have recently completed a Diploma in Data Analytics through Mission Ready, expanding my capability in Python, SQL, Machine Learning, Microsoft Fabric and data‑driven decision‑making. 
 
-Over the past decade, I’ve worked as a Business analyst supporting complex programmes across manufacturing, finance, supply chain, and enterprise operations — helping organisations clarify requirements, optimise processes, and deliver meaningful change. I thrive in environments where collaboration, continuous improvement, and thoughtful problem‑solving are valued. I’m passionate about combining business analysis with data literacy to help organisations improve accuracy, efficiency, and insight. Whether working with technical teams, operational leaders, or executive stakeholders, I bring clarity, structure, and a steady focus on delivering outcomes that matter. 
+Over the past decade, I’ve worked as a Business Analyst supporting complex programmes across manufacturing, finance, supply chain, and enterprise operations — helping organisations clarify requirements, optimise processes, and deliver meaningful change. I thrive in environments where collaboration, continuous improvement, and thoughtful problem‑solving are valued. I’m passionate about combining business analysis with data literacy to help organisations improve accuracy, efficiency, and insight. Whether working with technical teams, operational leaders, or executive stakeholders, I bring clarity, structure, and a steady focus on delivering outcomes that matter. 
 
 Alongside my study and work, I’m a Director at Pelle Care Products Limited, where I  provide input on strategy, finance, compliance, and product development. This hands‑on commercial experience has strengthened my ability to connect business needs with practical, scalable solutions.
 If you’re working on transformation, process optimisation, or data‑enabled improvement — I’d love to connect.
@@ -66,7 +66,6 @@ I enjoy translating complex business requirements into practical technical solut
 - Microsoft Fabric
 - Azure
 - Power BI
-- Git
 - GitHub
 
 ### Business Analysis
@@ -148,7 +147,7 @@ Analysis of sales performance using Python and visualisation techniques.
 
 ## Education
 
-- Mission Ready HQ: (Expected) AI-Powered Data Analyst Diploma (Feb 2026 - Oct 26)
+- Mission Ready HQ: AI-Powered Data Analyst Diploma (Feb 2026 - Oct 26)
 - Victoria University of Wellington: Bachelor of Laws, Bachelor of Commerce (International Business) (2012 -2016)
 
 ---
