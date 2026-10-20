@@ -155,7 +155,6 @@ Analysis of sales performance using Python and visualisation techniques.
 ## Let's Connect
 
 - LinkedIn: https://linkedin.com/in/anya-sinclair-morrison-b8686a51
-- Email: anyamaysinclair@gmail.com
 
 
   
